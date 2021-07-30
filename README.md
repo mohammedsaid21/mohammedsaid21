@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a web front end developer, and very passionate about education and self development, and keep pace with development.
 </h3>
 
-Languages and Tools:
+<h3>Languages and Tools:</h3>
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
  
@@ -38,8 +38,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <a href="https://status.nmoo.dev/now-playing">
   <img href="https://status.nmoo.dev/now-playing">
 </a>
+
 <div>
-<h3 font-weight:"bolder">fun fact:</h3> 
+<h3>fun fact:</h3> 
 <span>if I am not building something.
 I would be thinking of building something</span>
  </div>
