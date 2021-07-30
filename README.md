@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 Languages and Tools:
 <div>
 <img src="image/logo.png" width="84px" margin-bottom = "20px"> 
- <img src="image/visual-studio-code.png" width="31px" height="42px">
+ <img src="image/pngegg.png" width="36px" height="42px">
 <img src="image/Octocat.png" width="45px">
+<img src="image/jq.png" width="45px">
+<img src="image/PngIte.png" width="45px">
+
 </div>  
 
 <div>
