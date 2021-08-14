@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hello World, I'm Mohammed 👋</h2>
 <img align="right" width="380px" src="image/giphy.webp">
-<h3>
-I'm a web front end developer, and very passionate about education and self development, and keep pace with development.
+<h3>I love turning beautiful designs into usable websites that are responsive to various devices as well as being scalable. I always strive for perfection to make my projects unique and innovative,
+And I do this by learning and keeping up with new tools by reading articles and following MDN
 </h3>
 
 <h3>Languages and Tools:</h3>
