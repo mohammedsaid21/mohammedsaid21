@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hello World, I'm Mohammed 👋</h2>
+<h1 align="center">Hello World, I'm Mohammed 👋</h1>
 <img align="right" width="380px" src="image/giphy.webp">
 <h4>I love turning beautiful designs into usable websites that are responsive to various devices.<br>
 I always strive for perfection to make my projects unique and innovative,<br>
