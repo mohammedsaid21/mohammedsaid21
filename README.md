@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <div>
 <!-- <h3>fun fact:</h3> -->
- 🌱 I am currently learning react.js
+<!--  🌱 I am currently learning react.js -->
  <h4>⚡ Fun fact:</h4>
 <span>if I am not building something.
 I would be thinking of building something</span>
