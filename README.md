@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 -->
 
 
+
 <h1 align="center">Hello World, I'm Mohammed 👋</h1>
 <img align="right" width="380px" src="image/giphy.webp">
+
 <h4>I love turning beautiful designs into usable websites that are responsive to various devices.<br>
 I always strive for perfection to make my projects unique and innovative,<br>
  And I do this by learning and keeping up with new tools by reading articles and following MDN.
@@ -43,9 +45,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </a>
 
 <div>
-<h3>fun fact:</h3> 
+<!-- <h3>fun fact:</h3> -->
+ 🌱 I am currently learning react.js
+ <h4>⚡ Fun fact:</h4>
 <span>if I am not building something.
 I would be thinking of building something</span>
  </div>
  
+
+
  
