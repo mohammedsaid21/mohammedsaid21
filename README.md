@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello World, I'm Mohammed 👋</h1>
 <img align="right" width="380px" src="image/giphy.webp">
-
-<h4>I love turning beautiful designs into usable websites that are responsive to various devices.<br>
+<!--  that are responsive to various devices -->
+<h4>I love turning beautiful designs into usable websites.<br>
 I always strive for perfection to make my projects unique and innovative,<br>
  And I do this by learning and keeping up with new tools by reading articles and following MDN.
 </h4>
