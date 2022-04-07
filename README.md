@@ -35,6 +35,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
  
  <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
+  <img align="left" height="20" src="https://img.icons8.com/officel/452/react.png"> 
  <img align="left" alt="HTML5" width="35px"     src="https://img.icons8.com/color/344/redux.png" />
  
  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
