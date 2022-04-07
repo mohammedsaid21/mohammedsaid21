@@ -22,7 +22,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
  And I do this by learning and keeping up with new tools by reading articles and following MDN.
 </h4>
 
-![](https://komarev.com/ghpvc/?username=mohammedsaid21)
+![](https://komarev.com/ghpvc/?username=mohammedsaid21&color=brightgreen&style=for-the-badge)
 
 <h3>Languages and Tools:</h3>
 <div>
