@@ -22,6 +22,8 @@ I always strive for perfection to make my projects unique and innovative,<br>
  And I do this by learning and keeping up with new tools by reading articles and following MDN.
 </h4>
 
+![](https://komarev.com/ghpvc/?username=mohammedsaid21)
+
 <h3>Languages and Tools:</h3>
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
