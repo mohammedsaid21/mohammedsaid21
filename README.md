@@ -44,7 +44,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
  
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/452/material-ui.png" style="max-width:100%;">
  
-<img align="left" alt="HTML5" width="35px"     src="https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming-thumbnail.png" />
+<img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/344/google-firebase-console.png" />
 
 
  
