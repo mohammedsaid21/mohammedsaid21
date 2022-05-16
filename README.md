@@ -150,16 +150,14 @@ I always strive for perfection to make my projects unique and innovative,<br>
       
       
 
-<a href="https://status.nmoo.dev/now-playing">
+<!-- <a href="https://status.nmoo.dev/now-playing">
   <img href="https://status.nmoo.dev/now-playing">
 </a>
 
 <div>
- <!-- <h3>fun fact:</h3> -->
- <!--  🌱 I am currently learning react.js -->
  <h4>⚡ Fun fact:</h4>
  <span>if I am not building something.
  I would be thinking of building something</span>
-</div>
+</div> -->
 
  
