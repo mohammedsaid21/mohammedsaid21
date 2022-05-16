@@ -25,9 +25,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
 ![](https://komarev.com/ghpvc/?username=mohammedsaid21&color=blue&style=for-the-badge)
 
 
-<h3 align="left">Languages and Tools:</h3>
-      <p align="left">
-        
+<h3 align="left">Languages and Tools:</h3>        
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -36,7 +34,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
             height="40"
           />
         </a>
-      </p>
+
       
 
 <a href="https://status.nmoo.dev/now-playing">
