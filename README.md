@@ -1,37 +1,24 @@
-<!--
-**mohammedsaid21/mohammedsaid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-
-<!-- <h1 align="center">Hello World, I'm Mohammed 👋</h1> -->
+<h1 align="center">Hello World, I'm Mohammed 👋</h1>
 <img align="right" width="380px" src="image/giphy.webp">
-<!--  that are responsive to various devices -->
 
-<!-- <h4>I love turning beautiful designs into usable websites.<br>
+
+<h4>I love turning beautiful designs into usable websites.<br>
 I always strive for perfection to make my projects unique and innovative,<br>
  And I do this by learning and keeping up with new tools by reading articles and following MDN.
 </h4>
- -->
+
 ![](https://komarev.com/ghpvc/?username=mohammedsaid21&color=blue&style=for-the-badge)
-<!--  -->
 
-<!--  <h3 align="left">Languages and Tools:</h3> -->
 
-           <span>
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" 
+ <h3 align="left">Languages and Tools:</h3>
+
+<span>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" 
           width="40" height="40" />
-          </span>
+</span>    
+          
 <span>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" 
           width="40" height="40" /></span>
@@ -54,9 +41,10 @@ I always strive for perfection to make my projects unique and innovative,<br>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
               alt="postman" width="40" height="40"  /></span>
 
-          <span>
+<span>          
           <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-            alt="xd" width="40" height="40" /></span>
+            alt="xd" width="40" height="40" />
+ </span>
 <span>
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /></span>
