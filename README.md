@@ -45,13 +45,8 @@ I always strive for perfection to make my projects unique and innovative,<br>
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/452/material-ui.png" style="max-width:100%;">
  
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/344/google-firebase-console.png" />
-
-
  
- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;">
- 
- 
-
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;">
  
 </div>
 
@@ -68,7 +63,8 @@ I always strive for perfection to make my projects unique and innovative,<br>
 <span>if I am not building something.
 I would be thinking of building something</span>
  </div>
- 
+
+<img src='https://camo.githubusercontent.com/cabaae7bba8fc366328f1447be30e008aecfa93c63f8ee9e3301c0d00eb1c10b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d6f68616d6d6164484826636f756e745f707269766174653d747275652673686f775f69636f6e733d747275652673686f775f6f776e65723d74727565' alt='' />
 
 
  
