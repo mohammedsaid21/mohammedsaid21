@@ -24,9 +24,9 @@ I always strive for perfection to make my projects unique and innovative,<br>
 
 ![](https://komarev.com/ghpvc/?username=mohammedsaid21&color=blue&style=for-the-badge)
 
-
-<h3 align="left">Languages and Tools:</h3>        
- <h3 align="left">Languages and Tools:</h3>     
+<h3 align="left">Languages and Tools:</h3>
+      <p align="left">
+        
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           
           <img
@@ -147,10 +147,10 @@ I always strive for perfection to make my projects unique and innovative,<br>
             height="40"
           />
         </a>
-      
+      </p>
       
 
-<!-- <a href="https://status.nmoo.dev/now-playing">
+<a href="https://status.nmoo.dev/now-playing">
   <img href="https://status.nmoo.dev/now-playing">
 </a>
 
@@ -158,6 +158,6 @@ I always strive for perfection to make my projects unique and innovative,<br>
  <h4>⚡ Fun fact:</h4>
  <span>if I am not building something.
  I would be thinking of building something</span>
-</div> -->
+</div>
 
  
