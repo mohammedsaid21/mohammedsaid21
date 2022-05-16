@@ -32,8 +32,8 @@ I always strive for perfection to make my projects unique and innovative,<br>
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
             alt="tailwind" width="40" height="40" /></span>
 <span>
-        <img src="http://localhost:3000/static/media/MATERIAL.c0958f97929482097efdccc254e938aa.svg" alt="MATERIAL" width="40" height="40" />
-</span>
+          <img src="http://localhost:3000/static/media/MATERIAL.c0958f97929482097efdccc254e938aa.svg"
+             alt="MATERIAL" width="40" height="40" /></span>
 <span>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
             width="40" height="40" /></span>
