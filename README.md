@@ -33,21 +33,19 @@ I always strive for perfection to make my projects unique and innovative,<br>
             alt="tailwind" width="40" height="40" /></span>
 
 <span>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
             width="40" height="40" /></span>
 <span>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
               alt="redux" width="40" height="40" /></span>
               
-              ---
-              <span>
-            <img src="./image/next.png"
+ 
+<span>
+          <img src="./image/next.png"
               alt="redux" width="40" height="40" /></span>
-              
-              
-              ------
-              <span>
-            <img src="./image/typescript.png"
+
+<span>
+          <img src="./image/typescript.png"
               alt="typescript" width="40" height="40" /></span>
               
               
