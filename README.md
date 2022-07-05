@@ -61,9 +61,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
 <span>
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /></span>
-<span>
-          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku" width="40" height="40" /></span>
+
 <span>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
             alt="java" width="40" height="40" />
