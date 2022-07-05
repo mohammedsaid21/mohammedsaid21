@@ -38,6 +38,20 @@ I always strive for perfection to make my projects unique and innovative,<br>
 <span>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
               alt="redux" width="40" height="40" /></span>
+              
+              ---
+              <span>
+            <img src="./image/next.png"
+              alt="redux" width="40" height="40" /></span>
+              
+              
+              ------
+              <span>
+            <img src="./image/typescript.png"
+              alt="typescript" width="40" height="40" /></span>
+              
+              
+              
 <span>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
               alt="postman" width="40" height="40"  /></span>
