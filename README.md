@@ -48,7 +48,7 @@ I always strive for perfection to make my projects unique and innovative,<br>
           <img src="./image/typescript.png"
               alt="typescript" width="40" height="40" /></span>
               
-              <br />
+              <br>
               
 <span>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
