@@ -13,9 +13,8 @@ I always strive for perfection to make my projects unique and innovative,<br>
 
 <a href="https://portfolio-mohammed-kappa.vercel.app" target="_blank"/>My Portfolio</a>
 
-<div style="display: flex">
-    <h4>My Email:</h4> <a href="mailto:mohmmedsaidaker@gmail.com">  mohmmedsaidakergmail.com </a>
-</div>
+
+  <a href="mailto:mohmmedsaidaker@gmail.com">Sent to my email </a>
 
  <h3 align="left">Languages and Tools:</h3>
 
