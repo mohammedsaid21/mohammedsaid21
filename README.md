@@ -9,7 +9,7 @@ Building scalable web applications, SaaS products, and AI-powered systems.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-mohammed-kappa.vercel.app">🌐 Portfolio</a>
+  <a href="https://msaid-dev.vercel.app/">🌐 Portfolio</a>
   &nbsp; · &nbsp;
   <a href="mailto:mohmmedsaidaker@gmail.com">📧 Email</a>
 </p>
